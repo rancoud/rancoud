@@ -9,7 +9,7 @@ I made PHP modules
 * [Crypt](https://github.com/rancoud/Crypt): Crypt using Argon2id by default with Argon2i and bcrypt in fallback.
 * [Security](https://github.com/rancoud/Security): Security. Escape string to output HTML (and JS).
 * [Pagination](https://github.com/rancoud/Pagination): Generate HTML pagination for accessibility.
-* [Database](https://github.com/rancoud/Database): Request Database (use PDO). Drivers supported: MySQL, PostgreSQL, SQLite.
+* [Database](https://github.com/rancoud/Database): Request Database (use PDO). Supported drivers: MySQL, PostgreSQL, SQLite.
 * [Model](https://github.com/rancoud/Model): Abstract Model for better data manipulation between code and database.
 * [Session](https://github.com/rancoud/Session): Session PHP.
 * [Environment](https://github.com/rancoud/Environment): Read Environment file (.env).
