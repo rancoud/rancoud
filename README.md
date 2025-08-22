@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on blueprintUE
-- 📫 How to reach me: on Twitter @rancoud
-
 I made PHP packages  
 * [Crypt](https://github.com/rancoud/Crypt): Crypt using Argon2id by default with Argon2i and bcrypt in fallback.
 * [Security](https://github.com/rancoud/Security): Security. Escape string to output HTML (and JS).
